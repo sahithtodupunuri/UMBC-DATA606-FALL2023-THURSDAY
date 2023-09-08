@@ -1,6 +1,11 @@
+![image](https://github.com/sahithtodupunuri/UMBC-DATA606-FALL2023-THURSDAY/assets/114625950/c0289f08-6a2c-402c-a867-7f1008e71d0b)
+
+
+
+
 ### SAHITH TODUPUNURI
 #### Big Data Engineer
-#### Email: sahithtodupunuri@gmail.com | Phone: +1 (512)-300-9535| https://www.linkedin.com/in/sahith-todupunuri
+### Email: sahithtodupunuri@gmail.com | Phone: +1 (512)-300-9535| https://www.linkedin.com/in/sahith-todupunuri
 #### Professional Summary:
 * Around 3+ years of experience in Information Technology in developing Bigdata and Analytics solutions.
 * Specialized in Bigdata architecture, Data management and large-scale distributed data processing for Bigdata Analytics. 
